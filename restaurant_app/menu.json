@@ -1,0 +1,106 @@
+{
+    "menu":[
+    
+    {
+        "id":1,
+        "nombre": "Pizza peque",
+        "precio": 10,
+        "categoria":1
+    },
+
+    {
+        "id":2,
+        "nombre": "Pizza mediana",
+        "precio": 15,
+        "categoria":1
+    },  
+    
+    {
+        "id":3,
+        "nombre": "Pizza grande",
+        "precio": 20,
+        "categoria":1
+    },
+
+    {
+        "id":4,
+        "nombre": "Sushi cangrejo",
+        "precio": 10,
+        "categoria":2
+    },
+    {
+        "id":5,
+        "nombre": "Sushi tempurizado",
+        "precio": 12,
+        "categoria":2
+    },
+    {
+        "id":6,
+        "nombre": "Sushi salmon",
+        "precio": 15,
+        "categoria":2
+    },
+    {
+        "id":7,
+        "nombre": "Helado tina",
+        "precio": 5,
+        "categoria":3
+    },
+
+    {
+        "id":8,
+        "nombre": "Helado barquilla",
+        "precio": 7,
+        "categoria":3
+    },
+
+    {
+        "id":9,
+        "nombre": "Heado familiar",
+        "precio": 10,
+        "categoria":3
+    },
+
+    {
+        "id":10,
+        "nombre": "Ensalada cesar",
+        "precio": 5,
+        "categoria":4
+    },
+
+    {
+        "id":11,
+        "nombre": "Ensalada de frutas",
+        "precio": 5,
+        "categoria":4
+    },
+
+    {
+        "id":12,
+        "nombre": "Ensalada ligth",
+        "precio": 5,
+        "categoria":4
+    },
+
+    {
+        "id":13,
+        "nombre": "Cafe expresso",
+        "precio": 3,
+        "categoria":5
+    },
+
+    {
+        "id":14,
+        "nombre": "Cafe latte",
+        "precio": 5,
+        "categoria":5
+    },
+
+    {
+        "id":15,
+        "nombre": "Cafe Mocca",
+        "precio": 5,
+        "categoria":5
+    }
+]
+}
